@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'LGM-app';
+  homeActive: Boolean = true;
+  topographyActive: Boolean = false;
+  
 }
